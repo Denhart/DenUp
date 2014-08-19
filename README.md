@@ -11,4 +11,4 @@ You will need to create a "keys.php" on the server which should contain the foll
 - $host = "http://host/imagefolder/"
 
 On the Android side you need to create a api_keys.xml in DenUp/app/src/main/res/values/ and this should contain the following: 
-- <string name="key">somekey</string>
+- "<string name="key">somekey</string>"
