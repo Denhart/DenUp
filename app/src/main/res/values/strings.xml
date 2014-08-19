@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DenUp</string>
+    <string name="hello_world">Hello world, upload stuff with me</string>
+    <string name="action_settings">Settings</string>
+    <string name="upcomp">Upload completed!</string>
+    <string name="upfailed">Upload failed!</string>
+    <string name="swipe">Swipe to remove this notification</string>
+    <string name="path">http://denhart.dk/denup.php?secret=%1$s&amp;type=</string>
+    <string name="uploading">Uploading</string>
+
+
+</resources>
