@@ -1,5 +1,5 @@
 <?php
-include 'key.php' //Includes secretket, host and path
+include 'key.php'; //Includes secretket, host and path
 $secret = $_GET["secret"];
 if($secret == $secretkey){
   $data = file_get_contents('php://input');
